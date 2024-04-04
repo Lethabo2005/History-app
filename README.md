@@ -1,6 +1,9 @@
-IMAD essay: (Explaining the history app with its codes)
+IMAD essay: Explaining the history app with its codes)
 
-Background image of the cover age:
+This is the background image of the cover age:
+
+![IMAD pictures](https://github.com/Lethabo2005/History-app/assets/165888864/48d7beed-ca5c-4e8d-a532-9e2b0d60ac34)
+
 
 This is the background image used in my history app. It is very significant as it portrays the passing of
 time. It also highlights the fact that time waits for nobody and that anything can happen at any given
@@ -9,10 +12,17 @@ the introduction. The application consists of a background image, a clear button
 an exit button, a space provided for you to insert your age for the app to match it with a famous
 person (you may also enter different ages) and a title called the “History App”.
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/6f050104-051f-4cba-aada-efaf982689c9)
+
+
 In today’s fast-paced world, connecting with the past can often feel distant and inaccessible
 however, with the history app given, I managed to code and insert many different instructions to
 make the history app generate and match the text that was inputted with an old famous person who
 passed away.
+
+![download (1)](https://github.com/Lethabo2005/History-app/assets/165888864/9a7d03ab-4f29-4be0-8aeb-9c4fce9a7320)
+
+
 
 Fortunately, we live in a generation where technology is advanced as it has evolved, I am truly
 grateful that it became useful enough to assist us with many different tasks at hand. Imagine an app
@@ -21,12 +31,22 @@ them. That can be a very interesting fact as it provides a unique perspective on
 itself and evolution. It fosters a sense of connection with the past generations. In this essay I will be
 diving deep into the potential benefits of this innovative and unique application.
 
+
+![download (2)](https://github.com/Lethabo2005/History-app/assets/165888864/b49715e1-f1d1-467a-86e6-e4de7d6ec918)
+
+
+
 By linking individuals with famous people who lived during a similar time-period, the app creates a
 platform for intergenerational knowledge. Users can gain insights and more background knowledge
 and information about a specific individual by even entering a random age if they are playing around
 in the app and if they are curious about learning and matching ages. People who have matching ages
 with historical figures foster a deeper appreciation for the past and a sense of continuity across
 generations.
+
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/85911c21-6130-4c08-abbb-f77e53e6bda0)
+
+
 
 Beyond facilitating personal connections, this history app plays and holds a significant role in
 educational value and self-gain. Through curated profiles and biographical information, users can
@@ -35,6 +55,11 @@ creative arts, physics and chemistry in science, politics and literature. By als
 historical events of peoples lives the history application enriches users with a better understanding
 of history and it also positively encourages and motivates further exploration by creating curiosity of
 cultures and different time periods.
+
+![download (3)](https://github.com/Lethabo2005/History-app/assets/165888864/d8388309-4196-44df-8e20-f4f5d4dc51b3)
+
+
+
 
 For many users, discovering a famous figure who achieved or overcame adversity during the same
 stage of life can be inspiring. By highlighting the accomplishments instead of struggles, the
@@ -50,6 +75,11 @@ narrative of human history.
 In the digital age, the development of mobile applications has become increasingly prevalent,
 shaping, and organizing various aspects of our daily lives.
 
+
+![download (4)](https://github.com/Lethabo2005/History-app/assets/165888864/8ba268e7-5c48-4edc-bdc5-4cc7ba228acf)
+
+
+
 Behind the scenes of every successful app lies a complex complicated process of coding, wherein
 programmers utilize different programming languages and technologies to bring ideas to life. I am
 about to dive into the multifaceted role of coding in app development, exploring, investigating, and
@@ -64,21 +94,44 @@ remains relevant, regular updates ensure that the application does not get outda
 thus, it is vitally important to engage and provide users with fresh new content over experiences
 overtime.
 
+
+![af31fb1fae1972e1c161bbdf146169b4](https://github.com/Lethabo2005/History-app/assets/165888864/804ffa12-1b96-4633-aaef-c8c96234aff0)
+
+
+
+
 App Functions:
 
 The generate button function processes the input in which a user enters in the space provided (the
 “enter your age” part) and it generates the age by matching it with a famous person who lived in the
 last generation which is the 1900s.
 
+![images](https://github.com/Lethabo2005/History-app/assets/165888864/90a5b0a1-3a88-4276-a6b3-f3392376293b)
+
+
+
+
 The clear button removes and clears all of the text that was entered above the generate button
 which is the input field and it is a shortcut to save time by taking away any numbers that were
 entered in the text field. This action is typically used to clear input fields when adding a new object
 as it acts like a short cut to removing all displayed numbers.
 
+![clear-button svg hi](https://github.com/Lethabo2005/History-app/assets/165888864/d9dae548-e772-4f5e-9564-730e6ce6c86a)
+
+
+
+
 The exit buttons (which are also called a “close“ button) function is to exit the application in order to
 close the application when a user is done using the history app. It also removes any unsaved
 information in the application. Clicking or tapping the exit button will cause the application to close.
 It will also delete text.
+
+![360_F_2487857_xqMEFmnABCDj6zMsGHmf2vmJKqi6yz](https://github.com/Lethabo2005/History-app/assets/165888864/1a7dfa8d-d401-4ef0-a9b4-b66e6e8ab4eb) 
+
+
+
+
+
 
 When a specific age is entered the result text names consist of: Paul Adams who passed away at the
 age of 30, Zygmunt Janiszewski who passed away at the age of 31, Benito Perez Galdos who passed
@@ -91,33 +144,68 @@ age of 72, Jacinta Marto who passed away at the age of 79 and Alexander IL “yi
 away at the age of 100. The goal of the result text is to match the user with one of these famous
 people and if a user enters any other number the result test will state “No match found!”
 
+
+
 Paul Adams
+
+
+![MV5BMjg1NGE1YjktN2Y5ZS00YmE3LThiZjAtM2VmNjJmODU0ODQ3XkEyXkFqcGdeQXVyMzczMTg4NTQ@ _V1_](https://github.com/Lethabo2005/History-app/assets/165888864/84f30940-6449-4f6f-b354-e879681ab8a5)
+
+
+
+
 
 Zygmunt Janiszewski
 
+
+
 Benito Perez Galdos
+
+
 
 John Francis Dodge
 
+
+
 Reginald De Koven
+
+
 
 Georg Lurich
 
+
+
 Ameoeo Hodigliani
+
+
 
 Alexander Vasilevich Kolchak
 
+
+
 Richard Denmel
+
+
 
 Emile Sauret
 
+
+
 Jean Allemane
+
+
 
 Ottalee Baker
 
+
+
 Jacinta Marto
 
+
+
 Alexander IL “yinsky
+
+
 
 In conclusion, I hope to emphasize the significance of connecting specific users with historical
 famous people and to highlight the apps potential impact on understanding history. I also encourage
