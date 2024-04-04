@@ -1,4 +1,4 @@
-IMAD essay: Explaining the history app with its codes)
+IMAD essay: (Explaining the history app with its codes)
 
 This is the background image of the cover age:
 
@@ -132,15 +132,39 @@ It will also delete text.
 
 
 
-
 When a specific age is entered the result text names consist of: Paul Adams who passed away at the
-age of 30, Zygmunt Janiszewski who passed away at the age of 31, Benito Perez Galdos who passed
-away at the age of 36, John Francis Dodge who passed away at the age of 41, Reginald De Koven
-who passed away at the age of 42, Georg Lurich who passed away at the age of 50, Ameoeo
-Hodigliani who passed away at the age of 57, Alexander Vasilevich Kolchak who passed away at the
-age of 60, Richard Denmel who passed away at the age of 64, Emile Sauret who passed away at the
-age of 70, Jean Allemane who passed away at the age of 71, Ottalee Baker who passed away at the
-age of 72, Jacinta Marto who passed away at the age of 79 and Alexander IL “yinsky” who passed
+age of 30, 
+
+Zygmunt Janiszewski who passed away at the age of 31, 
+
+Benito Perez Galdos who passed
+away at the age of 36,
+
+John Francis Dodge who passed away at the age of 41, 
+
+Reginald De Koven
+who passed away at the age of 42,
+
+Georg Lurich who passed away at the age of 50,
+
+Ameoeo Hodigliani who passed away at the age of 57,
+
+Alexander Vasilevich Kolchak who passed away at the
+age of 60,
+
+Richard Denmel who passed away at the age of 64,
+
+Emile Sauret who passed away at the
+age of 70, 
+
+
+Jean Allemane who passed away at the age of 71,
+
+Ottalee Baker who passed away at the
+age of 72, 
+
+
+Jacinta Marto who passed away at the age of 79 and Alexander IL “yinsky” who passed
 away at the age of 100. The goal of the result text is to match the user with one of these famous
 people and if a user enters any other number the result test will state “No match found!”
 
@@ -149,8 +173,7 @@ people and if a user enters any other number the result test will state “No ma
 Paul Adams
 
 
-![MV5BMjg1NGE1YjktN2Y5ZS00YmE3LThiZjAtM2VmNjJmODU0ODQ3XkEyXkFqcGdeQXVyMzczMTg4NTQ@ _V1_](https://github.com/Lethabo2005/History-app/assets/165888864/84f30940-6449-4f6f-b354-e879681ab8a5)
-
+(https://github.com/Lethabo2005/History-app/assets/165888864/84f30940-6449-4f6f-b354-e879681ab8a5)
 
 
 
@@ -262,4 +285,4 @@ Alexander IL “yinsky
 In conclusion, I hope to emphasize the significance of connecting specific users with historical
 famous people and to highlight the apps potential impact on understanding history. I also encourage
 further exploration of historical context beyond the app itself. I hope all users engage with these
-famous people in a meaningful way and enjoy the application.
+famous people in a meaningful way and enjoy the application.  
