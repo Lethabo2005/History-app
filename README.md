@@ -157,53 +157,105 @@ Paul Adams
 
 Zygmunt Janiszewski
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/7cf8bb1a-7d71-422a-aefd-99a3e9920a80)
+
+
 
 
 Benito Perez Galdos
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/bd0251bb-520a-4acf-a040-2326ba111533) 
+
+
+
+
 
 
 John Francis Dodge
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/44f963d9-ddea-4e1e-b778-9c47fa4df742) 
+
+
+
 
 
 
 Reginald De Koven
 
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/b856192e-c769-431d-ba0f-b65ece3e81b3) 
+
+
+
+
 
 Georg Lurich
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/7192af32-6441-4cb2-a9d0-18cd2f32fdcc) 
+
+
+
 
 
 
 Ameoeo Hodigliani
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/94da26ee-164b-4134-aa53-addc07ea8233) 
+
 
 
 
 Alexander Vasilevich Kolchak
 
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/a7a1477a-07f0-4e32-945f-72f7e5e407d2) 
+
+
+
+
 
 Richard Denmel
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/5b79531e-cc1e-480c-8776-515af03cb65b) 
+
+
 
 
 
 Emile Sauret
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/bc7b1025-5c89-4281-8d05-27ede3fc6886) 
 
 
-Jean Allemane
+
+
+
+
+Jean Allemane 
+
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/ed63bd08-eb99-4d28-a9b6-6a3ffa1668f7)
 
 
 
 Ottalee Baker
 
 
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/5ec85baa-e217-42ae-a72d-4d2381e8b64e) 
+
+
+
+
 
 Jacinta Marto
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/dece670a-98c4-403d-8958-dea236599345)
 
 
 
 Alexander IL “yinsky
+
+![download](https://github.com/Lethabo2005/History-app/assets/165888864/e2c74f03-8f9b-45fb-b8cf-57bd223a6eac) 
+
 
 
 
